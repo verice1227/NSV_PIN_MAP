@@ -1,0 +1,16 @@
+{
+  "name": "NSV Pogo Pin Search",
+  "short_name": "NSV Pogo",
+  "description": "Offline NSV pogo-pin lookup with chassis, site, block and pin-map highlighting.",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f9",
+  "theme_color": "#174a72",
+  "orientation": "any",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
